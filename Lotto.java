@@ -59,6 +59,7 @@ public class Lotto {
 		}
 		
 		
+		sc.close();
 	}
 }
 
